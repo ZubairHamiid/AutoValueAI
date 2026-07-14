@@ -20,7 +20,7 @@
 
 Rather than focusing only on model training, this project demonstrates the complete Machine Learning workflow—from raw data to an interactive prediction platform.
 
-To run this project dashboard first open and run code the whole code in Vs Code then open browser and copy this adddress and paste it on the browser
+To run this project dashboard first open and run whole code in Vs Code then open browser and copy this adddress and paste it on the browser
 http://127.0.0.1:8504
 ---
 
