@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange.svg">
   <img src="https://img.shields.io/badge/Streamlit-Dashboard-red.svg">
   <img src="https://img.shields.io/badge/FastAPI-REST_API-green.svg">
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg">
 </p>
 
 ---
